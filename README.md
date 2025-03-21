@@ -85,6 +85,9 @@ print(response.content)
 Ciao!
 ```
 
+![image](https://github.com/user-attachments/assets/52299aab-a401-435f-a233-7ee3c9a331cb)
+
+
 Conclusiones
 
 - Facilidad de Uso: LangChain simplifica la interacción con modelos de lenguaje, permitiendo construir flujos conversacionales personalizados con poco código.
